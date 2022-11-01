@@ -1,0 +1,4 @@
+2022-11-01 14:07:22,217 INFO mullinli.SpringPetBot.SpringPetBotApplication [main] Starting SpringPetBotApplication using Java 18.0.2.1 on Yaroslavs-Mac-mini.local with PID 19608 (/Users/yaroslav/Desktop/SpringPetBot/target/classes started by yaroslav in /Users/yaroslav/Desktop/SpringPetBot)
+2022-11-01 14:07:22,220 INFO mullinli.SpringPetBot.SpringPetBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-11-01 14:07:25,018 INFO mullinli.SpringPetBot.SpringPetBotApplication [main] Started SpringPetBotApplication in 3.396 seconds (JVM running for 4.188)
+2022-11-01 14:07:40,738 INFO mullinli.SpringPetBot.service.TelegramBot [mullinli_pet_bot Telegram Executor] Replied to user Yaroslav
